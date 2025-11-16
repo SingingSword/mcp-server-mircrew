@@ -6,7 +6,7 @@ import sys
 
 # Set environment variables directly
 os.environ["MIRCREW_USERNAME"] = "SingingSword"
-os.environ["MIRCREW_PASSWORD"] = "[>+NY3>Np(3G'teX7R>T"
+# os.environ["MIRCREW_PASSWORD"] = "your_password_here"
 
 # Now import and run the main module
 sys.path.insert(0, '/home/enrico/Sorgenti/mcp-server-mircrew')
